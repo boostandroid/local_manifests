@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
 	<remote name="boost" fetch="https://github.com/boostandroid"/>
+	<project path="external/boost-core" name="core" revision="android" remote="boost" />
 	<project path="external/boost-config" name="config" revision="android" remote="boost" />
+	<project path="external/boost-detail" name="detail" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
 	<project path="external/boost-type_traits" name="type_traits" revision="android" remote="boost" />
