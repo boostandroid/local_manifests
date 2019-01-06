@@ -21,6 +21,7 @@
 	<project path="external/boost-smart_ptr" name="smart_ptr" revision="android" remote="boost" />
 	<project path="external/boost-system" name="system" revision="android" remote="boost" />
 	<project path="external/boost-thread" name="thread" revision="android" remote="boost" />
+	<project path="external/boost-utility" name="utility" revision="android" remote="boost" />
 	<project path="external/boost-filesystem" name="filesystem" revision="android" remote="boost" />
 	<project path="external/boost-preprocessor" name="preprocessor" revision="android" remote="boost" />
 </manifest>
