@@ -2,8 +2,10 @@
 <manifest>
 	<remote name="boost" fetch="https://github.com/boostandroid"/>
 	<project path="external/boost-core" name="core" revision="android" remote="boost" />
+	<project path="external/boost-array" name="array" revision="android" remote="boost" />
 	<project path="external/boost-config" name="config" revision="android" remote="boost" />
 	<project path="external/boost-detail" name="detail" revision="android" remote="boost" />
+	<project path="external/boost-io" name="io" revision="android" remote="boost" />
 	<project path="external/boost-iterator" name="iterator" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
