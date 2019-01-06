@@ -9,6 +9,7 @@
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
 	<project path="external/boost-type_traits" name="type_traits" revision="android" remote="boost" />
 	<project path="external/boost-log" name="log" revision="android" remote="boost" />
+	<project path="external/boost-mpl" name="mpl" revision="android" remote="boost" />
 	<project path="external/boost-system" name="system" revision="android" remote="boost" />
 	<project path="external/boost-thread" name="thread" revision="android" remote="boost" />
 	<project path="external/boost-filesystem" name="filesystem" revision="android" remote="boost" />
