@@ -3,6 +3,7 @@
 	<remote name="boost" fetch="https://github.com/boostandroid"/>
 	<project path="external/boost-core" name="core" revision="android" remote="boost" />
 	<project path="external/boost-array" name="array" revision="android" remote="boost" />
+	<project path="external/boost-bind" name="bind" revision="android" remote="boost" />
 	<project path="external/boost-config" name="config" revision="android" remote="boost" />
 	<project path="external/boost-detail" name="detail" revision="android" remote="boost" />
 	<project path="external/boost-functional" name="functional" revision="android" remote="boost" />
