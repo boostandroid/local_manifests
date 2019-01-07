@@ -8,6 +8,7 @@
 	<project path="external/boost-functional" name="functional" revision="android" remote="boost" />
 	<project path="external/boost-container_hash" name="container_hash" revision="android" remote="boost" />
 	<project path="external/boost-io" name="io" revision="android" remote="boost" />
+	<project path="external/boost-integer" name="integer" revision="android" remote="boost" />
 	<project path="external/boost-iterator" name="iterator" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
