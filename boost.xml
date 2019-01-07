@@ -10,6 +10,7 @@
 	<project path="external/boost-io" name="io" revision="android" remote="boost" />
 	<project path="external/boost-integer" name="integer" revision="android" remote="boost" />
 	<project path="external/boost-iterator" name="iterator" revision="android" remote="boost" />
+	<project path="external/boost-move" name="move" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
 	<project path="external/boost-parameter" name="parameter" revision="android" remote="boost" />
