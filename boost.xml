@@ -22,7 +22,6 @@
 	<project path="external/boost-type_traits" name="type_traits" revision="android" remote="boost" />
 	<project path="external/boost-throw_exception" name="throw_exception" revision="android" remote="boost" />
 	<project path="external/boost-log" name="log" revision="android" remote="boost" />
-	<project path="external/boost-move" name="move" revision="android" remote="boost" />
 	<project path="external/boost-mpl" name="mpl" revision="android" remote="boost" />
 	<project path="external/boost-smart_ptr" name="smart_ptr" revision="android" remote="boost" />
 	<project path="external/boost-system" name="system" revision="android" remote="boost" />
