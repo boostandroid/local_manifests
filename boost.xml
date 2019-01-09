@@ -13,6 +13,7 @@
 	<project path="external/boost-integer" name="integer" revision="android" remote="boost" />
 	<project path="external/boost-interprocess" name="interprocess" revision="android" remote="boost" />
 	<project path="external/boost-iterator" name="iterator" revision="android" remote="boost" />
+	<project path="external/boost-lexical_cast" name="lexical_cast" revision="android" remote="boost" />
 	<project path="external/boost-locale" name="locale" revision="android" remote="boost" />
 	<project path="external/boost-move" name="move" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
