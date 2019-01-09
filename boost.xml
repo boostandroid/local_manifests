@@ -17,6 +17,7 @@
 	<project path="external/boost-locale" name="locale" revision="android" remote="boost" />
 	<project path="external/boost-move" name="move" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
+	<project path="external/boost-range" name="range" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
 	<project path="external/boost-parameter" name="parameter" revision="android" remote="boost" />
 	<project path="external/boost-static_assert" name="static_assert" revision="android" remote="boost" />
