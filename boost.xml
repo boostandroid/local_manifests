@@ -16,6 +16,7 @@
 	<project path="external/boost-lexical_cast" name="lexical_cast" revision="android" remote="boost" />
 	<project path="external/boost-locale" name="locale" revision="android" remote="boost" />
 	<project path="external/boost-move" name="move" revision="android" remote="boost" />
+	<project path="external/boost-numeric_conversion" name="numeric_conversion" revision="android" remote="boost" />
 	<project path="external/boost-predef" name="predef" revision="android" remote="boost" />
 	<project path="external/boost-range" name="range" revision="android" remote="boost" />
 	<project path="external/boost-assert" name="assert" revision="android" remote="boost" />
