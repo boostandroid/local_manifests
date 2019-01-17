@@ -14,6 +14,7 @@
 	<project path="external/boost-io" name="io" revision="android" remote="boost" />
 	<project path="external/boost-integer" name="integer" revision="android" remote="boost" />
 	<project path="external/boost-interprocess" name="interprocess" revision="android" remote="boost" />
+	<project path="external/boost-intrusive" name="intrusive" revision="android" remote="boost" />
 	<project path="external/boost-iterator" name="iterator" revision="android" remote="boost" />
 	<project path="external/boost-lexical_cast" name="lexical_cast" revision="android" remote="boost" />
 	<project path="external/boost-locale" name="locale" revision="android" remote="boost" />
