@@ -38,4 +38,5 @@
 	<project path="external/boost-preprocessor" name="preprocessor" revision="android" remote="boost" />
 	<project path="external/boost-date_time" name="date_time" revision="android" remote="boost" />
 	<project path="external/boost-math" name="math" revision="android" remote="boost" />
+	<project path="external/boost-tokenizer" name="tokenizer" revision="android" remote="boost" />
 </manifest>
