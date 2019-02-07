@@ -4,6 +4,7 @@
 	<project path="external/boost-core" name="core" revision="android" remote="boost" />
 	<project path="external/boost-array" name="array" revision="android" remote="boost" />
 	<project path="external/boost-bind" name="bind" revision="android" remote="boost" />
+	<project path="external/boost-chrono" name="chrono" revision="android" remote="boost" />
 	<project path="external/boost-config" name="config" revision="android" remote="boost" />
 	<project path="external/boost-concept_check" name="concept_check" revision="android" remote="boost" />
 	<project path="external/boost-container" name="container" revision="android" remote="boost" />
