@@ -42,4 +42,5 @@
 	<project path="external/boost-tokenizer" name="tokenizer" revision="android" remote="boost" />
 <project path="external/boost-ratio" name="ratio" revision="android" remote="boost" />
 <project path="external/boost-atomic" name="atomic" revision="android" remote="boost" />
+<project path="external/boost-algorithm" name="algorithm" revision="android" remote="boost" />
 </manifest>
