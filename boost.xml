@@ -45,4 +45,5 @@
 <project path="external/boost-algorithm" name="algorithm" revision="android" remote="boost" />
 <project path="external/boost-tuple" name="tuple" revision="android" remote="boost" />
 <project path="external/boost-exception" name="exception" revision="android" remote="boost" />
+<project path="external/boost-optional" name="optional" revision="android" remote="boost" />
 </manifest>
