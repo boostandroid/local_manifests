@@ -46,4 +46,5 @@
 <project path="external/boost-tuple" name="tuple" revision="android" remote="boost" />
 <project path="external/boost-exception" name="exception" revision="android" remote="boost" />
 <project path="external/boost-optional" name="optional" revision="android" remote="boost" />
+<project path="external/boost-unordered" name="unordered" revision="android" remote="boost" />
 </manifest>
