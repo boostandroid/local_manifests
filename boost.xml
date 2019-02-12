@@ -54,4 +54,5 @@
 <project path="external/boost-spirit" name="spirit" revision="android" remote="boost" />
 <project path="external/boost-foreach" name="foreach" revision="android" remote="boost" />
 <project path="external/boost-phoenix" name="phoenix" revision="android" remote="boost" />
+<project path="external/boost-proto" name="proto" revision="android" remote="boost" />
 </manifest>
