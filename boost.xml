@@ -63,4 +63,5 @@
 <project path="external/boost-poly_collection" name="poly_collection" revision="android" remote="boost" />
 <project path="external/boost-function_types" name="function_types" revision="android" remote="boost" />
 <project path="external/boost-random" name="random" revision="android" remote="boost" />
+<project path="external/boost-align" name="align" revision="android" remote="boost" />
 </manifest>
