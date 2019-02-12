@@ -50,4 +50,5 @@
 <project path="external/boost-property_tree" name="property_tree" revision="android" remote="boost" />
 <project path="external/boost-any" name="any" revision="android" remote="boost" />
 <project path="external/boost-multi_index" name="multi_index" revision="android" remote="boost" />
+<project path="external/boost-serialization" name="serialization" revision="android" remote="boost" />
 </manifest>
