@@ -59,4 +59,5 @@
 <project path="external/boost-typeof" name="typeof" revision="android" remote="boost" />
 <project path="external/boost-variant" name="variant" revision="android" remote="boost" />
 <project path="external/boost-regex" name="regex" revision="android" remote="boost" />
+<project path="external/boost-asio" name="asio" revision="android" remote="boost" />
 </manifest>
