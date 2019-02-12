@@ -53,4 +53,5 @@
 <project path="external/boost-serialization" name="serialization" revision="android" remote="boost" />
 <project path="external/boost-spirit" name="spirit" revision="android" remote="boost" />
 <project path="external/boost-foreach" name="foreach" revision="android" remote="boost" />
+<project path="external/boost-phoenix" name="phoenix" revision="android" remote="boost" />
 </manifest>
