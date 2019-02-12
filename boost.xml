@@ -61,4 +61,5 @@
 <project path="external/boost-regex" name="regex" revision="android" remote="boost" />
 <project path="external/boost-asio" name="asio" revision="android" remote="boost" />
 <project path="external/boost-poly_collection" name="poly_collection" revision="android" remote="boost" />
+<project path="external/boost-function_types" name="function_types" revision="android" remote="boost" />
 </manifest>
