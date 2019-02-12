@@ -57,4 +57,5 @@
 <project path="external/boost-proto" name="proto" revision="android" remote="boost" />
 <project path="external/boost-fusion" name="fusion" revision="android" remote="boost" />
 <project path="external/boost-typeof" name="typeof" revision="android" remote="boost" />
+<project path="external/boost-variant" name="variant" revision="android" remote="boost" />
 </manifest>
